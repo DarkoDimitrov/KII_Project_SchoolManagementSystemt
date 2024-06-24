@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\VisualStudioProjects\SchoolManagmentSystem\SchoolManagmentSystem\obj\Debug\net8.0\SchoolManagmentSystem_1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\VisualStudioProjects\SchoolManagmentSystem\SchoolManagmentSystem\obj\Debug\net8.0\SchoolManagmentSystem_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\VisualStudioProjects\SchoolManagmentSystem\SchoolManagmentSystem\obj\Debug\net8.0\SchoolManagmentSystem_1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\VisualStudioProjects\SchoolManagmentSystem\SchoolManagmentSystem\obj\Debug\net8.0\SchoolManagmentSystem_1.AssemblyInfo.cs
+C:\Users\User\Desktop\VisualStudioProjects\SchoolManagmentSystem\SchoolManagmentSystem\obj\Debug\net8.0\SchoolManagmentSystem_1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\VisualStudioProjects\SchoolManagmentSystem\SchoolManagmentSystem\obj\Debug\net8.0\SchoolManagmentSystem_1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\VisualStudioProjects\SchoolManagmentSystem\SchoolManagmentSystem\obj\Debug\net8.0\SchoolManagmentSystem_1.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\VisualStudioProjects\SchoolManagmentSystem\SchoolManagmentSystem\obj\Debug\net8.0\SchoolManagmentSystem_1.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\VisualStudioProjects\SchoolManagmentSystem\SchoolManagmentSystem\obj\Debug\net8.0\SchoolManagmentSystem_1.dll
+C:\Users\User\Desktop\VisualStudioProjects\SchoolManagmentSystem\SchoolManagmentSystem\obj\Debug\net8.0\refint\SchoolManagmentSystem_1.dll
+C:\Users\User\Desktop\VisualStudioProjects\SchoolManagmentSystem\SchoolManagmentSystem\obj\Debug\net8.0\SchoolManagmentSystem_1.pdb

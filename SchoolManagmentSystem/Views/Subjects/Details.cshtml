@@ -1,0 +1,88 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model SchoolManagmentSystem.Models.ViewModels.SubjectDetailsViewModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+
+
+    <style>
+    body {
+        background: linear-gradient(to bottom, #42d7f5, #ffffff);
+        font-family: 'Arial', sans-serif;
+    }
+        .container {
+            margin-top: 50px;
+            width:70%;
+        }
+        .description-box {
+        background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .description-box h2 {
+            color: #007bff;
+            font-size: 24px;
+        }
+        .description-box hr {
+            border-color: #007bff;
+            margin-top: 10px;
+            margin-bottom: 20px;
+        }
+        .description-box .row {
+            margin-bottom: 15px;
+        }
+        .description-box .row dt {
+            font-weight: bold;
+        }
+        .btn-create {
+            background-color: #007bff;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            transition: background-color 0.3s ease;
+        }
+        .btn-create:hover {
+            background-color: #0056b3;
+            color: #fff;
+        }
+    </style>
+
+
+<div class="container">
+    <div class="description-box">
+        <h2>Subject Name: @Model.Subject.Name</h2>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-2">Description</dt>
+            <dd class="col-sm-10">@Model.Subject.Description</dd>
+            <dt class="col-sm-2">Weekly Classes</dt>
+            <dd class="col-sm-10">@Model.Subject.NumberOfWeeklyClasses</dd>
+            <dt class="col-sm-2">Teacher</dt>
+            <dd class="col-sm-10">@Model.Subject.Teacher.Name</dd>
+        </dl>
+    </div>
+
+    <h3 class="mt-4" style="color:white">Literatures</h3>
+    <ul class="list-group" style="border-radius: 10px;">
+        @foreach (var literature in @Model.Literatures)
+        {
+            <li class="list-group-item">
+                <strong>@literature.Title</strong> by @literature.Author
+            </li>
+        }
+    </ul>
+
+    <div class="mt-4">
+        <a asp-action="ListSubjects" class="btn btn-create">Back to List</a>
+    </div>
+</div>
+
