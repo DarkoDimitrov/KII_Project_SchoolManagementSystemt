@@ -32,10 +32,7 @@ namespace SchoolManagmentSystem.Controllers
             return View(teacher);
         }
 
-        public IActionResult Create()
-        {
-            return View();
-        }
+       
 
         [HttpPost]
         public IActionResult Create(Teacher teacher)

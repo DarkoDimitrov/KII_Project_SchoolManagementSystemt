@@ -4111,11 +4111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\VisualStudioProjects\\SchoolManagmentSystem\\SchoolManagmentSystem\\SchoolManagmentSystem.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\SchoolManagmentSystem.csproj",
       "projectName": "SchoolManagmentSystem",
-      "projectPath": "C:\\Users\\User\\Desktop\\VisualStudioProjects\\SchoolManagmentSystem\\SchoolManagmentSystem\\SchoolManagmentSystem.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\SchoolManagmentSystem.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\VisualStudioProjects\\SchoolManagmentSystem\\SchoolManagmentSystem\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
