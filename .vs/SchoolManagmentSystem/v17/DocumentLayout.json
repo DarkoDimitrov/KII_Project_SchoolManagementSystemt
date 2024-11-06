@@ -3,72 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Damilah\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|c:\\users\\user\\desktop\\damilah\\schoolmanagmentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|solutionrelative:schoolmanagmentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|c:\\users\\user\\desktop\\damilah\\schoolmanagmentsystem\\views\\subjects\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|solutionrelative:schoolmanagmentsystem\\views\\subjects\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|c:\\users\\user\\desktop\\damilah\\schoolmanagmentsystem\\views\\subjects\\listsubjects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|solutionrelative:schoolmanagmentsystem\\views\\subjects\\listsubjects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|c:\\users\\user\\desktop\\damilah\\schoolmanagmentsystem\\service\\serviceimplementation\\subjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|solutionrelative:schoolmanagmentsystem\\service\\serviceimplementation\\subjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|c:\\users\\user\\desktop\\damilah\\schoolmanagmentsystem\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|solutionrelative:schoolmanagmentsystem\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|c:\\users\\user\\desktop\\damilah\\schoolmanagmentsystem\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|solutionrelative:schoolmanagmentsystem\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|c:\\users\\user\\desktop\\damilah\\schoolmanagmentsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|solutionrelative:schoolmanagmentsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|c:\\users\\user\\desktop\\damilah\\schoolmanagmentsystem\\models\\entities\\journal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|solutionrelative:schoolmanagmentsystem\\models\\entities\\journal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|c:\\users\\user\\desktop\\damilah\\schoolmanagmentsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|solutionrelative:schoolmanagmentsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|c:\\users\\user\\desktop\\damilah\\schoolmanagmentsystem\\models\\entities\\literature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|solutionrelative:schoolmanagmentsystem\\models\\entities\\literature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ACCF5EE6-7EE1-4307-A13A-F0EE2B7D7CD4}|docker-compose.dcproj|c:\\users\\user\\desktop\\damilah\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{ACCF5EE6-7EE1-4307-A13A-F0EE2B7D7CD4}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|c:\\users\\user\\desktop\\damilah\\schoolmanagmentsystem\\repository\\repositoryimplementation\\subjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|solutionrelative:schoolmanagmentsystem\\repository\\repositoryimplementation\\subjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|c:\\users\\user\\desktop\\damilah\\schoolmanagmentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|solutionrelative:schoolmanagmentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|c:\\users\\user\\desktop\\damilah\\schoolmanagmentsystem\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|solutionrelative:schoolmanagmentsystem\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|c:\\users\\user\\desktop\\damilah\\schoolmanagmentsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|solutionrelative:schoolmanagmentsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|c:\\users\\user\\desktop\\damilah\\schoolmanagmentsystem\\models\\viewmodel\\subjectdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|solutionrelative:schoolmanagmentsystem\\models\\viewmodel\\subjectdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|c:\\users\\user\\desktop\\damilah\\schoolmanagmentsystem\\models\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|solutionrelative:schoolmanagmentsystem\\models\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|c:\\users\\user\\desktop\\damilah\\schoolmanagmentsystem\\models\\entities\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|solutionrelative:schoolmanagmentsystem\\models\\entities\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|c:\\users\\user\\desktop\\damilah\\schoolmanagmentsystem\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|solutionrelative:schoolmanagmentsystem\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|c:\\users\\user\\desktop\\damilah\\schoolmanagmentsystem\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|solutionrelative:schoolmanagmentsystem\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|c:\\users\\user\\desktop\\damilah\\schoolmanagmentsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|solutionrelative:schoolmanagmentsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|c:\\users\\user\\desktop\\damilah\\schoolmanagmentsystem\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{68F9A96E-D4E2-4E71-8FAB-13381FB10B10}|SchoolManagmentSystem\\SchoolManagmentSystem.csproj|solutionrelative:schoolmanagmentsystem\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,228 +34,81 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\Views\\Subjects\\Details.cshtml",
-              "RelativeDocumentMoniker": "SchoolManagmentSystem\\Views\\Subjects\\Details.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\Views\\Subjects\\Details.cshtml",
-              "RelativeToolTip": "SchoolManagmentSystem\\Views\\Subjects\\Details.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-26T10:13:31.481Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ListSubjects.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\Views\\Subjects\\ListSubjects.cshtml",
-              "RelativeDocumentMoniker": "SchoolManagmentSystem\\Views\\Subjects\\ListSubjects.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\Views\\Subjects\\ListSubjects.cshtml",
-              "RelativeToolTip": "SchoolManagmentSystem\\Views\\Subjects\\ListSubjects.cshtml",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-26T10:12:40.565Z",
-              "EditorCaption": ""
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "SchoolManagmentSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\appsettings.json",
+              "RelativeToolTip": "SchoolManagmentSystem\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-20T18:37:42.572Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "SubjectController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\Controllers\\SubjectController.cs",
-              "RelativeDocumentMoniker": "SchoolManagmentSystem\\Controllers\\SubjectController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\Controllers\\SubjectController.cs",
-              "RelativeToolTip": "SchoolManagmentSystem\\Controllers\\SubjectController.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAoAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T09:15:03.972Z",
-              "EditorCaption": ""
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SchoolManagmentSystem\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SchoolManagmentSystem\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-06T14:51:04.904Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\Program.cs",
-              "RelativeDocumentMoniker": "SchoolManagmentSystem\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\Program.cs",
-              "RelativeToolTip": "SchoolManagmentSystem\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T09:36:05.966Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "SchoolManagmentSystem\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeToolTip": "SchoolManagmentSystem\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AQIAAFkAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T09:35:52.166Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Journal.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\Models\\Entities\\Journal.cs",
-              "RelativeDocumentMoniker": "SchoolManagmentSystem\\Models\\Entities\\Journal.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\Models\\Entities\\Journal.cs",
-              "RelativeToolTip": "SchoolManagmentSystem\\Models\\Entities\\Journal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T09:31:11.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Literature.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\Models\\Entities\\Literature.cs",
-              "RelativeDocumentMoniker": "SchoolManagmentSystem\\Models\\Entities\\Literature.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\Models\\Entities\\Literature.cs",
-              "RelativeToolTip": "SchoolManagmentSystem\\Models\\Entities\\Literature.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T09:31:06.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "SchoolManagmentSystem\\Data\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "SchoolManagmentSystem\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAAACAAAAAMAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwA8AAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T09:26:49.619Z",
+              "WhenOpened": "2024-09-25T22:52:00.176Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "SubjectService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\Service\\ServiceImplementation\\SubjectService.cs",
-              "RelativeDocumentMoniker": "SchoolManagmentSystem\\Service\\ServiceImplementation\\SubjectService.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\Service\\ServiceImplementation\\SubjectService.cs",
-              "RelativeToolTip": "SchoolManagmentSystem\\Service\\ServiceImplementation\\SubjectService.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolManagmentSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\Program.cs",
+              "RelativeToolTip": "SchoolManagmentSystem\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T09:22:28.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T18:37:02.876Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SubjectRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\Repository\\RepositoryImplementation\\SubjectRepository.cs",
-              "RelativeDocumentMoniker": "SchoolManagmentSystem\\Repository\\RepositoryImplementation\\SubjectRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\Repository\\RepositoryImplementation\\SubjectRepository.cs",
-              "RelativeToolTip": "SchoolManagmentSystem\\Repository\\RepositoryImplementation\\SubjectRepository.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T09:19:25.738Z",
-              "EditorCaption": ""
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\Dockerfile",
+              "RelativeDocumentMoniker": "SchoolManagmentSystem\\Dockerfile",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\Dockerfile",
+              "RelativeToolTip": "SchoolManagmentSystem\\Dockerfile",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-20T18:18:33.189Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "SchoolManagmentSystem\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "SchoolManagmentSystem\\Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T09:19:03.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SubjectDetailsViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\Models\\ViewModel\\SubjectDetailsViewModel.cs",
-              "RelativeDocumentMoniker": "SchoolManagmentSystem\\Models\\ViewModel\\SubjectDetailsViewModel.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\Models\\ViewModel\\SubjectDetailsViewModel.cs",
-              "RelativeToolTip": "SchoolManagmentSystem\\Models\\ViewModel\\SubjectDetailsViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T09:18:39.072Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Teacher.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\Models\\Entities\\Teacher.cs",
-              "RelativeDocumentMoniker": "SchoolManagmentSystem\\Models\\Entities\\Teacher.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\Models\\Entities\\Teacher.cs",
-              "RelativeToolTip": "SchoolManagmentSystem\\Models\\Entities\\Teacher.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T09:18:21.178Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Subject.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\Models\\Entities\\Subject.cs",
-              "RelativeDocumentMoniker": "SchoolManagmentSystem\\Models\\Entities\\Subject.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\Models\\Entities\\Subject.cs",
-              "RelativeToolTip": "SchoolManagmentSystem\\Models\\Entities\\Subject.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T09:18:11.96Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\Models\\Entities\\Student.cs",
-              "RelativeDocumentMoniker": "SchoolManagmentSystem\\Models\\Entities\\Student.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\Models\\Entities\\Student.cs",
-              "RelativeToolTip": "SchoolManagmentSystem\\Models\\Entities\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T09:17:46.485Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "TeacherController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\Controllers\\TeacherController.cs",
-              "RelativeDocumentMoniker": "SchoolManagmentSystem\\Controllers\\TeacherController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\Controllers\\TeacherController.cs",
-              "RelativeToolTip": "SchoolManagmentSystem\\Controllers\\TeacherController.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAACIAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T09:08:40.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "SchoolManagmentSystem\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Damilah\\SchoolManagmentSystem\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "SchoolManagmentSystem\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T09:08:25.018Z",
-              "EditorCaption": ""
+              "DocumentIndex": 2,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Damilah\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Damilah\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-09-20T18:18:24.375Z"
             }
           ]
         }

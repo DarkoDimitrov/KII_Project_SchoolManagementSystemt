@@ -1,0 +1,30 @@
+version: '3.4'
+
+networks:
+  studentappnetwork:
+
+services:
+  SchoolManagmentSystem:
+    container_name: SchoolManagmentSystem
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    ports:
+     - 8002:1433
+    environment:
+     - ACCEPT_EULA=Y
+     - MSSQL_SA_PASSWORD=Vezba123!
+    networks:
+     - studentappnetwork
+
+  schoolmanagmentsystem:
+    container_name: schoolmanagmentsystem
+    ports:
+     - 8001:80
+    image: ${DOCKER_REGISTRY-}schoolmanagmentsystem
+    build:
+      context: .
+      dockerfile: SchoolManagmentSystem/Dockerfile
+    depends_on:
+     - SchoolManagmentSystem
+    networks:
+     - studentappnetwork
+   

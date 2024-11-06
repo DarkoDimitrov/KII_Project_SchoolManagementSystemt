@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SchoolManagmentSystem",
+    "\\SchoolManagmentSystem\\Repository",
+    "\\SchoolManagmentSystem\\Repository\\RepositoryImplementation"
+  ],
+  "SelectedNode": "\\docker-compose.yml",
+  "PreviewInSolutionExplorer": false
+}
